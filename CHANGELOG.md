@@ -1,5 +1,8 @@
 # Changes to PostCSS Preset Env
 
+### 7.0.0 (September 2, 2020)
+- Updated `postcss-custom-properties` to 9.1.1 (major)
+
 ### 6.7.0 (July 8, 2019)
 
 - Fixed the issue of autoprefixer alerting an upcoming change to the API
