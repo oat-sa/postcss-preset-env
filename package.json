@@ -1,5 +1,5 @@
 {
-  "name": "@oat-sa/postcss-preset-env",
+  "name": "postcss-preset-env",
   "version": "7.0.0",
   "description": "Convert modern CSS into something browsers understand",
   "author": "Jonathan Neal <jonathantneal@hotmail.com>",
